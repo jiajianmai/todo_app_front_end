@@ -8,3 +8,11 @@ li{
     border: 2px solid #2C3E50;
     color: #E74C3C;
 }    
+
+h1{
+    display: inline;
+    vertical-align: middle;
+    font-size: 32px;
+    margin: 20px 0px;
+    background-color: #008000;
+}
