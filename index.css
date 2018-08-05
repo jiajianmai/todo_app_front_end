@@ -14,5 +14,32 @@ h1{
     vertical-align: middle;
     font-size: 32px;
     margin: 20px 0px;
-    background-color: #008000;
+    background-color: #006400;
+}
+
+ol{
+    list-style:none;
+    font-size: 20px;
+    background-color: #FFF;
+    padding: 20px;
+    width: 60% auto;
+    margin:0 auto;
+    border-radius: 5px;
+    box-shadow:1px 1px #90A4AE;
+}
+
+li{
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+li:hover{
+    background-color:#E1F5FE;
+    border-radius: 3px;
+}
+
+a{
+    text-decoration: none;
+    color:#424242;
+    vertical-align: middle;
 }
