@@ -1,17 +1,4 @@
-html{
-    font-family: sans-serif;
-}
 
-
-
-
-h1{
-    display: inline;
-    vertical-align: middle;
-    font-size: 32px;
-    margin: 20px 0px;
-    background-color: #006400;
-}
 
 ol{
     list-style:none;
@@ -75,4 +62,15 @@ div{
 }
 #add-new-todo-button:active{
     box-shadow: 1px 1px 1px #90A4AE;
+}
+body {
+    color: #424242;
+    background-color: #ECEFF1;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #f707d3;
+    text-align:center;
+    margin-top: 20px;
 }
