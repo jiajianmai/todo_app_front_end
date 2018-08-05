@@ -2,12 +2,8 @@ html{
     font-family: sans-serif;
 }
 
-li{
-    padding:5px;
-    margin-bottom:10px;
-    border: 2px solid #2C3E50;
-    color: #E74C3C;
-}    
+
+
 
 h1{
     display: inline;
@@ -42,4 +38,16 @@ a{
     text-decoration: none;
     color:#424242;
     vertical-align: middle;
+}
+input[type="text"], input[type="number"]{
+    font-size: 20px;
+    background-color: #FFF;
+    outline:none;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px #90A4AE;
+}
+div{
+    width: 60%;
+    margin: 20px auto 0px auto;
 }
